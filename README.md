@@ -1,4 +1,4 @@
-To see the demo of Project click on below link or copy the link
+To see the demo of Project click on link:
 https://huggingface.co/spaces/nainpatel/olympic-data-analysis-nain
 
 # olympic_data_analysis
